@@ -3,3 +3,6 @@ https://fwancis9.github.io/
 
 ## Resume (TS1) ##
 https://fwancis9.github.io/TS1
+
+## Animation (TSA2) ##
+https://fwancis9.github.io/TS1

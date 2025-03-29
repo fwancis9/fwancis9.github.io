@@ -9,3 +9,6 @@ https://fwancis9.github.io/TSA2
 
 ## Calculator (TSA3) ##
 https://fwancis9.github.io/TSA3
+
+## Restaurant Guide (TSA4) ##
+https://fwancis9.github.io/TSA4
